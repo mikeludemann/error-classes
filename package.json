@@ -1,0 +1,26 @@
+{
+  "name": "error-classes",
+  "version": "1.0.0",
+  "description": "Custom error classes for all types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/error-classes.git"
+  },
+  "keywords": [
+    "error",
+    "handling",
+    "classes",
+    "types",
+    "error-classes"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/error-classes/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/error-classes#readme"
+}
